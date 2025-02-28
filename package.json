@@ -1,0 +1,16 @@
+{
+    "name": "github-copilot-commits",
+    "version": "1.0.0",
+    "description": "A JavaScript project with Jest installed",
+    "main": "exercise.js",
+    "type": "module",
+    "scripts": {
+        "test": "node --no-warnings --experimental-vm-modules node_modules/jest/bin/jest.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "jest": "^29.0.0"
+    }
+}
